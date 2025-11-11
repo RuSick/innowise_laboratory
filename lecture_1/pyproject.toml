@@ -1,0 +1,15 @@
+[project]
+name = "lecture_1"
+version = "0.1.0"
+description = "Mini-project for Python environment, dependencies, and Git setup homework"
+readme = ""
+requires-python = ">=3.8"
+dependencies = [
+  "colorama>=0.4.6",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
